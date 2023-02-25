@@ -14,7 +14,7 @@ keypoints:
 
 {% include links.md %}
 
-# Binary & Assignment Operators
+# Basic & Assignment Operators
 
 ~~~
 int i = 1 + 4 - 2 ; // 3
